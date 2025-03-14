@@ -5,4 +5,4 @@ pytz
 requests
 gunicorn
 vercel
-sqlite3 
+werkzeug
