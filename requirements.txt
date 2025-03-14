@@ -6,3 +6,4 @@ requests
 gunicorn
 vercel
 werkzeug
+psycopg2-binary
